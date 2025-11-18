@@ -18,9 +18,9 @@ With over a decade of experience in software engineering, my focus lies at the i
 
 I don't just write code; I architect resilient and scalable systems. My journey has evolved from building robust backends to implementing complex data pipelines and deploying Deep Learning models in production environments.
 
-* 🔭 Currently working on: **[Project Name or Field, e.g., LLM Inference Optimization]**
+* 🔭 Currently working on: **[Grupo Boticario]**
 * 🏗️ Specialized in: **Software Architecture (DDD, Hexagonal), High-Performance Computing & MLOps.**
-* 💬 Ask me about: **Java/Go/Rust, System Design, Query Optimization, and Neural Networks.**
+* 💬 Ask me about: **Node/Java/Python/C, System Design, Query Optimization, and Neural Networks.**
 
 ---
 
